@@ -4,6 +4,10 @@
         <page name='Constants and Variables'/>
         <page name='Conditionals 1'/>
         <page name='Conditionals 2'/>
+        <page name='Conditionals 3'/>
+        <page name='Conditionals 4'/>
+        <page name='Arrays 1'/>
+        <page name='Arrays 2'/>
         <page name='CorrectAnswer'/>
         <page name='IncorrectAnswer'/>
     </pages>

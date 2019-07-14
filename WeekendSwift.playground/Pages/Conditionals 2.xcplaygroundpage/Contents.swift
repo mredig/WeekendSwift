@@ -1,3 +1,5 @@
+//: [Previous](@previous)
+
 //: The answer for the previous page is this:
 
 let amHungry = false // feel free to change this value to test different paths
@@ -9,8 +11,7 @@ if amHungry {
 }
 
 
-//: [Previous](@previous)
-print("\n\n\n") //separation of previous answer from new challenge
+print("\n\n") //separation of previous answer from new challenge
 
 
 //: Finish the logic provided. Make it so that when `isThirsty` is true, the phrase "Go drink some water!" is printed, however, when it's false, have it do nothing.
