@@ -35,50 +35,69 @@ Each page will have an assortment of challenges that increase with difficulty as
 //(put your solutions here)
 //1 an Int named woody with a value of 5
 
+let woody: Int = 5
+
 
 constantOneAnswer()
 
 //2 a String named sid with a value of boom!
+
+let sed: String = "boom!"
 
 
 constantTwoAnswer()
 
 //3 a String named rex with a value of 1995
 
+let rex: String = "1995"
+
 
 constantThreeAnswer()
 
 //4 an explicitly declared Int named buzz with a value of 5
+
+let buzz: Int = 5
 
 
 constantFourAnswer()
 
 //5 a Bool named stretch with a value of true
 
+let stretch: Bool = true
+
 
 constantFiveAnswer()
 
 //6 a Double named hamm with a value of 1.618
+
+let hamm: Double = 1.618
 
 
 constantSixAnswer()
 
 //7 an Int named mrPotato converted from the String rex
 
-
+let mrPotato: Int = String(rex)
+	
 constantSevenAnswer()
 
 //8 a Float named boPeep with a value of 3.14
+
+let boPeep: Float = 3.14
 
 
 constantEightAnswer()
 
 //9 an optional Double named slinky with a value of 4.2
 
+let slinky: Double? = 4.2
+
 
 constantNineAnswer()
 
 //10 an optional Double named hannah with no value
+
+let hannah: Double? = nil
 
 
 constantTenAnswer()
@@ -89,13 +108,17 @@ constantTenAnswer()
 
 //1 a String named andy with a value of "Lasseter"
 
+var andy: String = "Lasseter"
 
 variableOneAnswer()
 
 //2 change the value of andy to "Hanks" (on another line)
 
+andy = "Hanks"
+
 
 variableTwoAnswer()
+
 
 
 /*:
