@@ -19,13 +19,15 @@ add(operandOne: 9, operandTwo: -9) // should print 0
 //: ### Challenge
 //: Add logic to this function `convolutedAlgorithm` that does the following.
 /*:
-1. multiplies the two operands together
-1. adds 3 to the result
-1. if the answer if over 100, print out "wow that's big!"
-1. divide the answer by 2
-1. multiply the answer by operandOne and operandTwo
+1. multiplies the two operands together and store it in a result variable
+1. adds 3 to the result and save the result in the result variable
+1. if the result is over 100, print out "wow that's big!"
+1. divide the result by 2 and save the result in the result variable
+1. multiply the answer by operandOne and operandTwo and save the result in the result variable
 1. print the result
 */
+
+//: >Don't stress yourself on the algorithm (which is 100% arbitrary). The point of this exercise is not to get the right answer so much as to understand that a function can mask extreme complexities that you can then instruct to execute (call/run/execute) by a single line of code.
 
 
 func convolutedAlgorithm(operandOne: Int, operandTwo: Int) {
