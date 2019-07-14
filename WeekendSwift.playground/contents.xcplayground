@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
+    <pages>
+        <page name='Constants and Variables'/>
+        <page name='Untitled Page 2'/>
+        <page name='CorrectAnswer'/>
+        <page name='IncorrectAnswer'/>
+    </pages>
+</playground>
