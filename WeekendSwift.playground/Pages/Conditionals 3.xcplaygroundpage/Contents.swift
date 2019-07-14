@@ -10,6 +10,7 @@ if isThirsty {
 }
 
 
+//: ### Challenge
 //: In the following code, `letter` has the potential to be any letter of the alphabet. Write some logic that prints out whether that the letter is a vowel (when it is), or a consonant (when it is).
 
 

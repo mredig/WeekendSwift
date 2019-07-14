@@ -10,7 +10,7 @@ for toy in toys {
 }
 
 
-
+//: Continue onto the next challenge!
 
 
 //: [Next](@next)
