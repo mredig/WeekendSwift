@@ -1,6 +1,7 @@
 //: [Previous](@previous)
 import Foundation
 
+//: ### Previous Answer
 //: There are actually several solutions for the previous page. Here are a couple suggestions:
 
 let letter = "the quick brown fox jumped over the lazy dog".filter{ $0 != " " }.randomElement()!

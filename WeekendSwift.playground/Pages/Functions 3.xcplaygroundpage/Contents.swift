@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 import Foundation
 
-//: The answer for the previous page is this:
+//: ### Previous Answer
 
 func add(operandOne: Int, operandTwo: Int) {
 	print(operandOne + operandOne)
@@ -16,7 +16,7 @@ add(operandOne: 55, operandTwo: 5) // should print 60
 add(operandOne: 9, operandTwo: -9) // should print 0
 
 
-//: ### Challenge
+//: ## Challenge
 //: Add logic to this function `convolutedAlgorithm` that does the following.
 /*:
 1. multiplies the two operands together and store it in a result variable

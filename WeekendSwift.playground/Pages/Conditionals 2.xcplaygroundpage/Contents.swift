@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 import Foundation
 
-//: The answer for the previous page is this:
+//: ### Previous Answer
 
 let amHungry = false // feel free to change this value to test different paths
 
@@ -15,7 +15,7 @@ if amHungry {
 print("\n\n") //separation of previous answer from new challenge
 
 
-//: ### Challenge
+//: ## Challenge
 //: Finish the logic provided. Make it so that when `isThirsty` is true, the phrase "Go drink some water!" is printed, however, when it's false, have it do nothing.
 
 let isThirsty = false

@@ -1,13 +1,15 @@
 //: [Previous](@previous)
 import Foundation
 
-//: The answer for the previous page is this:
+//: ### Previous Answer
 
 func meepMorp() {
 	print("Fleep florp")
 }
 
-//: ### Challenge
+meepMorp()
+
+//: ## Challenge
 //: Add logic to this function `add` that adds the operand parameters together and then prints out the answer.
 
 

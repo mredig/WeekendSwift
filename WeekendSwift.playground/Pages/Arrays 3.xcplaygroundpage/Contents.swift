@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 import Foundation
 
-//: The answer for the previous page is this:
+//: ### Previous Answer
 
 let toys = ["Woody", "Buzz", "Mr. Potato Head", "Rex"]
 

@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 import Foundation
 
-//: ### Challenge
+//: ## Challenge
 //: Call/execute/perform/run (they are all the same) the following function:
 
 func callMe() {

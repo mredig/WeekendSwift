@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 import Foundation
 
-//: ### Challenge
+//: ## Challenge
 /*:
 Create a constant array named "toys" contains the following:
 * Woody
