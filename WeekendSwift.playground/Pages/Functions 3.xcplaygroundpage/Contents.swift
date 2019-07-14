@@ -24,6 +24,7 @@ add(operandOne: 9, operandTwo: -9) // should print 0
 1. if the answer if over 100, print out "wow that's big!"
 1. divide the answer by 2
 1. multiply the answer by operandOne and operandTwo
+1. print the result
 */
 
 
