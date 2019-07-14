@@ -1,5 +1,4 @@
 //: [Previous](@previous)
-
 import Foundation
 
 /*: Create a constant array named "toys" contains the following:

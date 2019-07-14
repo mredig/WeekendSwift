@@ -1,4 +1,5 @@
 //: [Previous](@previous)
+import Foundation
 
 //: The answer for the previous page is this:
 

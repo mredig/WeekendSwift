@@ -1,4 +1,5 @@
 //: [Previous](@previous)
+import Foundation
 
 //: There are actually several solutions for the previous page. Here are a couple suggestions:
 

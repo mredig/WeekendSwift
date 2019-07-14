@@ -1,4 +1,5 @@
 //: [Previous](@previous)
+import Foundation
 
 //: The answer for the previous page is this:
 
@@ -8,8 +9,6 @@ if isThirsty {
 	print("Go drink some water!")
 }
 
-
-import Foundation
 
 //: In the following code, `letter` has the potential to be any letter of the alphabet. Write some logic that prints out whether that the letter is a vowel (when it is), or a consonant (when it is).
 

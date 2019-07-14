@@ -6,10 +6,10 @@ import Foundation
 let toys = ["Woody", "Buzz", "Mr. Potato Head", "Rex"]
 
 
-//: Loop over the array saying each one is your favorite toy.
+//: Add logic to loop over the array saying each one is your favorite toy. For example, you'd want it to say "Woody is my favorite toy!" and continue on with the others.
 
 
-print(" is my favorite toy!")
+print("this toy is my favorite toy!")
 
 
 //: [Next](@next)
