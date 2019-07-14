@@ -107,10 +107,10 @@ variableTwoAnswer()
 	* [three times, but no more](IncorrectAnswer)
 	* [no limit](CorrectAnswer)
 1. How many times can you change a variable's type once it's been declared?
-	* [never](IncorrectAnswer)
+	* [never](CorrectAnswer)
 	* [once](IncorrectAnswer)
 	* [three times, but no more](IncorrectAnswer)
-	* [no limit](CorrectAnswer)
+	* [no limit](IncorrectAnswer)
 1. How many times can a constant be assigned a value?
 	* [never](IncorrectAnswer)
 	* [once](CorrectAnswer)
