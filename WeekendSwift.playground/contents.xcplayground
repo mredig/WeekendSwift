@@ -2,7 +2,8 @@
 <playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
         <page name='Constants and Variables'/>
-        <page name='Untitled Page 2'/>
+        <page name='Conditionals 1'/>
+        <page name='Conditionals 2'/>
         <page name='CorrectAnswer'/>
         <page name='IncorrectAnswer'/>
     </pages>
