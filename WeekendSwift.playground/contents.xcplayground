@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
-        <page name='Constants and Variables'/>
+        <page name='Constants and Variables 1'/>
+        <page name='Constants and Variables 2'/>
+        <page name='Constants and Variables 3'/>
+        <page name='Constants and Variables 4'/>
+        <page name='Constants and Variables 5'/>
+        <page name='Constants and Variables 6'/>
+        <page name='Constants and Variables 7'/>
         <page name='Conditionals 1'/>
         <page name='Conditionals 2'/>
         <page name='Conditionals 3'/>
@@ -19,6 +25,8 @@
         <page name='Functions 7'/>
         <page name='Functions 8'/>
         <page name='Functions 9'/>
+        <page name='Optionals 1'/>
+        <page name='Optionals 2'/>
         <page name='CorrectAnswer'/>
         <page name='IncorrectAnswer'/>
     </pages>
