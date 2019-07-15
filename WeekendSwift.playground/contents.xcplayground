@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='raw'>
+<playground version='6.0' target-platform='macos' display-mode='rendered'>
     <pages>
         <page name='Getting Started'/>
         <page name='CorrectAnswer'/>
@@ -39,5 +39,9 @@
         <page name='Optionals 1'/>
         <page name='Optionals 2'/>
         <page name='Optionals 3'/>
+        <page name='Objects 1'/>
+        <page name='Objects 2'/>
+        <page name='Objects 3'/>
+        <page name='Objects 4'/>
     </pages>
 </playground>
