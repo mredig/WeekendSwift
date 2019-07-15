@@ -1,11 +1,8 @@
 //: [Previous](@previous)
 import Foundation
-
 //: ### Previous Answer
 //: There are actually several solutions for the previous page. Here are a couple suggestions:
-
 let letter = "the quick brown fox jumped over the lazy dog".filter{ $0 != " " }.randomElement()!
-
 
 // suggestion 1
 switch letter {
@@ -16,7 +13,6 @@ default:
 }
 
 // suggestion 2
-
 if letter == "a" {
 	print("'\(letter)' is a vowel.")
 } else if letter == "e" {
@@ -31,9 +27,5 @@ if letter == "a" {
 	print("'\(letter)' is a consonant.")
 }
 
-
-
 //: Continue onto the next challenge!
-
-
 //: [Next](@next)

@@ -5,7 +5,6 @@
 let first = 4.2
 let second = Float(4.2)
 let third: Float = 4.2
-
 /*:
 1. Which constant is different from the others?
 	* [first](CorrectAnswer)

@@ -1,5 +1,4 @@
 import Foundation
-
 /*:
 ## Challenge
 Create/modify the following variables/constants.

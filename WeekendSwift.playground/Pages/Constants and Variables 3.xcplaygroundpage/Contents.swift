@@ -4,7 +4,6 @@
 */
 let woody: Int = 5
 /*:
-
 1. What is this code doing?
 	* [setting the value of `woody` to 5](IncorrectAnswer)
 	* [stating that 5 is a `woody`](IncorrectAnswer)
@@ -25,7 +24,5 @@ let woody: Int = 5
 1. Can you change the value of `woody`?
 	* [`yes`](IncorrectAnswer)
 	* [`no`](CorrectAnswer)
-
 */
-
 //: [Next](@next)

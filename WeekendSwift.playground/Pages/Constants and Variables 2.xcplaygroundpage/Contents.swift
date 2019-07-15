@@ -1,7 +1,5 @@
 //: [Previous](@previous)
-
 /*:
-
 ## Discussion:
 ### Concepts:
 1. How many times can a variable be assigned a value?
@@ -40,7 +38,5 @@
 		* [variables and constants Apple provides are always called properties](IncorrectAnswer)
 		* [when they are part of an object (like a class or struct)](CorrectAnswer)
 		* [I like ducks](IncorrectAnswer)
-
 */
-
 //: [Next](@next)

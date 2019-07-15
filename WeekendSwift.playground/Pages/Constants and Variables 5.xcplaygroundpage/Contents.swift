@@ -29,6 +29,4 @@ var andy = "Lasseter"
 
 
 
-
-
 //: [Next](@next)

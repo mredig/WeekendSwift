@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='rendered'>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
         <page name='Getting Started'/>
         <page name='CorrectAnswer'/>
@@ -20,6 +20,9 @@
         <page name='ConditionalsRubberDuck 3'/>
         <page name='ConditionalsRubberDuck 4'/>
         <page name='ArraysRubberDuck 1'/>
+        <page name='ArraysRubberDuck 2'/>
+        <page name='ArraysRubberDuck 3'/>
+        <page name='ArraysRubberDuck 4'/>
         <page name='Arrays 1'/>
         <page name='Arrays 2'/>
         <page name='Arrays 3'/>
