@@ -25,7 +25,7 @@ Create/modify the following variables/constants.
 */
 //: #### Section 1 (constants)
 //: In the left gutter, just hit the play button next to the answer you want to see and it will print in the console below.
-//: * Like this: ![answer](answers.png)
+//: * Like this: 		![answer](answers.png)
 //: ___
 //(put your solutions here)
 //1 an Int named woody with a value of 5
