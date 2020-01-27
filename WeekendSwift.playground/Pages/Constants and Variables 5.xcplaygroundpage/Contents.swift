@@ -20,8 +20,8 @@ var andy = "Lasseter"
 	* [`String`](IncorrectAnswer)
 	* [`andy`](IncorrectAnswer)
 1. If you were to write `andy = "Hanks"` on line 31, would it compile?
-	* [`yes`](IncorrectAnswer)
-	* [`no`](CorrectAnswer)
+	* [`yes`](CorrectAnswer)
+	* [`no`](IncorrectAnswer)
 1. Why?
 	* [Because andy is a `variable` (that's why it says `var`), which is just like it sounds: variable](CorrectAnswer)
 	* [Because Swift is buggy](IncorrectAnswer)
