@@ -25,8 +25,10 @@ convolutedAlgorithm(operandOne: 9, operandTwo: -9) // should print 3159
 //: ## Challenge
 //: Create a function called `shmize` that takes a single String parameter entitled `object` and returns nothing.
 //: In one line, it should print the string passed in, followed by a comma, followed by another copy of the string starting with "schm". For example, if you passed in "water bottle", it would print "water bottle, schmwater bottle!". Test it with a few examples.
-
-
-
-
+func schmize(object: String) {
+    print("\(object), schm\(object)")
+}
+schmize(object: "water bottle")
+schmize(object: "pirate")
+schmize(object: "fork")
 //: [Next](@next)

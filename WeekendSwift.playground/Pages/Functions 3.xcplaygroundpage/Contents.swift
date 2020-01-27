@@ -11,9 +11,9 @@ func add(operandOne: Int, operandTwo: Int) {
 	print(answer)
 }
 
-add(operandOne: 1, operandTwo: 1) // should print 2
-add(operandOne: 55, operandTwo: 5) // should print 60
-add(operandOne: 9, operandTwo: -9) // should print 0
+//add(operandOne: 1, operandTwo: 1) // should print 2
+//add(operandOne: 55, operandTwo: 5) // should print 60
+//add(operandOne: 9, operandTwo: -9) // should print 0
 
 
 //: ## Challenge
@@ -31,9 +31,15 @@ add(operandOne: 9, operandTwo: -9) // should print 0
 
 
 func convolutedAlgorithm(operandOne: Int, operandTwo: Int) {
-
+    var result = operandOne * operandTwo
+    result += 3
+        if result > 100 {
+            print("Wow that's big")
+    }
+    result /= 2
+    result = result * operandOne * operandTwo
+    print(result)
 }
-
 convolutedAlgorithm(operandOne: 1, operandTwo: 1) // should print 2
 convolutedAlgorithm(operandOne: 55, operandTwo: 5) // should print wow that's big and then print 38225
 convolutedAlgorithm(operandOne: 9, operandTwo: -9) // should print 3159

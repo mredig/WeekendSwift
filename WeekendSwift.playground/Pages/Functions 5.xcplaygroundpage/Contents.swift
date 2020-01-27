@@ -18,8 +18,11 @@ schmize(object: "mailbox")
 
 //: ## Challenge
 //: Create a function called `distance` that takes a single String parameter entitled `destination`. However, label `destination` as `to` outside the function. It should return nothing and print out "1000 miles to \(destination)". As usual, call it.
+func distance(to destination: String) {
+    print("1000 miles to \(destination)")
+}
 
-
+distance(to: "California")
 
 
 //: [Next](@next)

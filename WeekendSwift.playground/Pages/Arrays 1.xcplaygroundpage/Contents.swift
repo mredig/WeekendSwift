@@ -20,7 +20,7 @@ Create a constant array named "toys" contains the following:
 
 
 // solution goes here:
-
+let toys = ["Woody", "Buzz", "Mr. Potato Head", "Rex"]
 
 
 

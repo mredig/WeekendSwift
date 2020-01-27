@@ -8,6 +8,6 @@ func callMe() {
 	print("Maybe")
 }
 
-
+callMe()
 
 //: [Next](@next)
